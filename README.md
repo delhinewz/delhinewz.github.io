@@ -1,7 +1,7 @@
 <h1>Haldiram Connaught Place Delhi – Menu, Reviews, Address & Dining Experience</h1>
 
   <!-- Introduction / Overview -->
-  <p><strong>Haldiram’s</strong>, a household name across India, is known for its wide range of traditional Indian snacks, sweets, and pure vegetarian meals. In the heart of Delhi, <strong>Haldiram Connaught Place (CP)</strong> stands out as one of the city’s most visited food destinations, combining authenticity with comfort and speed – making it a go-to spot for locals, office-goers, and tourists alike.</p>
+  <p><strong>Haldiram’s</strong>, a household name across India, is known for its wide range of traditional Indian snacks, sweets, and pure vegetarian meals. In the heart of Delhi, <strong><a href = "https://delhinewz.com/haldiram-connaught-place/">Haldiram Connaught Place</a> (CP)</strong> stands out as one of the city’s most visited food destinations, combining authenticity with comfort and speed – making it a go-to spot for locals, office-goers, and tourists alike.</p>
 
   <!-- About Section -->
   <h2>About Haldiram Connaught Place</h2>
